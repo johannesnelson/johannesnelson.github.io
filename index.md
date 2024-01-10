@@ -2,7 +2,7 @@
 layout: page
 title: Thank You!
 sitemap: false
-cover: false
+cover: true
 ---
 
 Thank you for buying the PRO version of Hydejack! 🎉
