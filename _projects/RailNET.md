@@ -14,9 +14,9 @@ image:
 links:
   - title: Link
     url: https://github.com/johannesnelson/RailNET
-# accent_color: '#4fb1ba'
-accent_image: /assets/img/projects/VIRA.jpg
-  background: '#193747'
+accent_color: '#4fb1ba'
+accent_image: 
+  background: /assets/img/projects/VIRA.jpg
 theme_color: '#193747'
 sitemap: false
 ---
