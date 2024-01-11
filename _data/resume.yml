@@ -45,8 +45,7 @@ work:
       surveys around the world. This monitoring program provides 
       essential metrics about Mastercard’s Priceless Planet Coalition,
       which aims to restore 100 million trees through a number of 
-      major restoration projects in key areas around the globe. This 
-      pipeline included scripts to 
+      major restoration projects in key areas around the globe.
     highlights:
       - Built complex, multi-script pipeline to extract monitoring data from Kobo Toolbox, 
         preprocess/wrangle it, correct taxonomic information using various online databases 
@@ -54,7 +53,7 @@ work:
         evaluate the success of all restoration projects in the portfolio.
       - Developed script that uses a combination of API calls and web-scraping to screen
         multiple thousands of species across dozens of organizations for potentially invasive
-        species being planted.
+        status.
       - Created a streamlined, semi-automated process for further classification of planting data
         into categories of native or alien using spatial occurence data from public databases and
         relevant text called and filtered from Wikipedia.
@@ -67,19 +66,35 @@ volunteer:
     website: "https://dvoc.org/"
     startDate: "2024-01-15"
     endDate: 
-    summary: "Global movement of free coding clubs for young people."
+    summary: "Co-chair of commitee to organize efforts to plan, support, and implement conservation 
+    projects within the greater Philadelphia area."
+    # highlights:
+    #   - "Awarded 'Teacher of the Month'"
+  - organization: "Great Marsh Institute"
+    position: "Scientist/Researcher"
+    website: "https://greatmarshinstitute.org/"
+    startDate: "2022-03-15"
+    endDate: 
+    summary: "Meet regularly to discuss/plan research activities on the preserve and public outreach--primarily
+    advising and increasing capacity of ongoing acoustic monitoring efforts targeting cryptic marsh birds."
     highlights:
-      - "Awarded 'Teacher of the Month'"
-education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
-    studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
+      - "Provide ongoing techinical support to streamline process of automatic acoustic signal detection
+      as well as manual validation of detection results."
+
+schooling:
+  - institution: "University of Pennsylvania"
+    area: "Environmental Studies"
+    studyType: "Master's"
+    startDate: "2021-09-30"
+    endDate: "2013-09-30"
     gpa: "4.0"
     courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
+      - "Deep Learning for Data Science"
+      - "Applied Machine Learning"
+      - "Bioacoustic Monitoring: Principles and Practice"
+      - "Intro to GIS"
+      - "Ornithological Principles"
+      - "Biological Occupancy Modeling"
 awards:
   - title: "Digital Compression Pioneer Award"
     date: "2014-11-01"
