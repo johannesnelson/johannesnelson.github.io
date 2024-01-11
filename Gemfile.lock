@@ -275,7 +275,7 @@ PLATFORMS
 DEPENDENCIES
   csv
   github-pages
-  jekyll (~> 3.8)
+  jekyll (~> 3.9)
   jekyll-compose
   jekyll-include-cache
   tzinfo-data
