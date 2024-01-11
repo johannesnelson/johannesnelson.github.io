@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Why Listen?
-image: /assets/img/song_sparrow1.jpg
+title: Why Listen WHERE IOS THIS?
+image: /assets/img/bird_favicon.jpg
 accent_image: 
-  background: url('/assets/img/singbird.jpg') center/cover
+  background: url('/assets/img/bird_favicon.jpg') center/cover
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
