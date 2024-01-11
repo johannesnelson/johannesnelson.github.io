@@ -2,35 +2,36 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
-  picture: "https://via.placeholder.com/240x240"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  name: "Johannes Nelson"
+  label: "Data Scientist, Bioacoustics Specialist, Ecologist"
+  picture: /assets/img/headshot.png
+  email: "johannes.nelson@gmail.com"
+  phone: "(917) 444-2451"
+  website: "https://johannesnelson.github.io"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+I am a data scientist specializing in bioacoustics and conservation analytics. 
+My research has primarily focused on the use of passive acoustic monitoring to 
+survey wildlife communities and monitor biodiversity metrics—combining traditional 
+field work techniques with deep learning/artificial intelligence for data processing 
+and analysis. My programming skills in R and Python allow me to contribute to 
+projects in a variety of ways, from building complex data analysis pipelines to 
+automating/streamlining essential processes. I also have extensive experience as an 
+educator in progressive, inquiry-based classrooms around the world. I hope to continue 
+working at the intersection of technology and ecology--using innovative deep learning 
+solutions to promote conservation and discovery.
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
+    address: "325 Monroe St"
+    postalCode: "PA 19147"
+    city: "Philadelphia"
     countryCode: "US"
-    region: "California"
+    region: "Pennsylvania"
   profiles:
-    - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
     - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
+      username: "johannes-nelson"
+      url: "https://www.linkedin.com/in/johannes-nelson-401b3a65/"
+    - network: "GitHub"
+      username: "johannesnelson"
+      url: "https://github.com/johannesnelson"
 work:
   - company: "Pied Piper"
     position: "CEO/President"
