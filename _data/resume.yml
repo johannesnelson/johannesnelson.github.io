@@ -95,6 +95,19 @@ education:
       - "Intro to GIS"
       - "Ornithological Principles"
       - "Biological Occupancy Modeling"
+  - institution: "Colorado College"
+    area: "English Literature"
+    studyType: "Bachelor"
+    startDate: "2007-09-30"
+    endDate: "2011-05-30"
+    gpa: "4.0"
+    courses:
+      - "Deep Learning for Data Science"
+      - "Applied Machine Learning"
+      - "Bioacoustic Monitoring: Principles and Practice"
+      - "Intro to GIS"
+      - "Ornithological Principles"
+      - "Biological Occupancy Modeling"
 
 # awards:
 #   - title: "Digital Compression Pioneer Award"
@@ -109,17 +122,28 @@ education:
 #     summary: "Innovative middle-out compression algorithm that changes the way we store data."
 skills:
   - name: "R programming"
+    level: "3/3"
+    keywords:
+      - "Scripting"
+      - "Data Analysis"
+      - "Data Visualization"
+  - name: "Deep Learning"
     level: "2/3"
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
-    level: "Master"
-    keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+      - "Python"
+      - "PyTorch"
+      - "Convolutional Neural Networks"
+      - "Large Language Models"
+      - "LangChain"
+      - "Prompt engineering"
+  - name: "Bioacoustics/Passive Acoustic Monitoring"
+    level: "3/3"
+    keywords: 
+      - "Signal processing/detection"
+      - "Biological survey design"
+      - "Data management"
+      - "Occupancy modeling"
+      - "Scientific reporting"
 languages:
   - language: "English"
     fluency: "Native speaker"
@@ -132,12 +156,23 @@ languages:
   - language: "Arabic"
     fluency: "1/5"
 interests:
-  - name: "Wildlife"
+  - name: "Outdoors"
     keywords:
-      - "Ferrets"
-      - "Unicorns"
-references:
-  - name: "Erlich Bachman"
-    reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+      - "Birding"
+      - "Hiking"
+      - "Surfing"
+      - "Rock climbing"
+      - "Backpacking"
+      - "Wildlife photography"
+  - name: "Indoors"
+    keywords:
+      - "Programming"
+      - "Writing"
+      - "Gaming"
+      - "Science fiction"
+      - "Fantasy"
+# references:
+#   - name: "Erlich Bachman"
+#     reference: >
+#       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+#       Company proved that he will be a valuable addition to any company.
