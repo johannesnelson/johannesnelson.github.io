@@ -62,11 +62,11 @@ work:
       automate the process of native//alien classifcation using intentional prompt engineering to 
       produce an organized report
 volunteer:
-  - organization: "Willistown Conservation Trust"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
+  - organization: "Delaware Valley Ornithological Club"
+    position: "Co-Chair of Conservation Commitee"
+    website: "https://dvoc.org/"
+    startDate: "2024-01-15"
+    endDate: 
     summary: "Global movement of free coding clubs for young people."
     highlights:
       - "Awarded 'Teacher of the Month'"
