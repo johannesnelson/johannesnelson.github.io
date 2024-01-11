@@ -47,6 +47,7 @@ work:
       which aims to restore 100 million trees through a number of 
       major restoration projects in key areas around the globe. 
 
+
       Along with scripts to extract and wrangle/clean the monitoring 
       data from Kobotoolbox, I wrote scripts that used a combination 
       of techniques like web-scraping and API calls to various databases
@@ -57,6 +58,7 @@ work:
       native or introduced with interactive functionality that shows 
       color-coded occurrence data along with relevant sentences 
       scraped from Wikipedia pages to assist the user in making a designation.
+
 
       To further enable the native/introduced classification process, I used 
       LangChain in Python to create an LLM powered classifier that bases its 
