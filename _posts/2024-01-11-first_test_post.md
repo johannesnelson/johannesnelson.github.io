@@ -3,7 +3,7 @@ layout: post
 title: Why Listen?
 image: /assets/img/song_sparrow1.jpg
 accent_image: 
-  background: url('/assets/img/song_sparrow1.jpg') center/cover
+  background: url('/assets/img/singbird.jpg') center/cover
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
@@ -12,8 +12,7 @@ description: >
 invert_sidebar: true
 ---
 
-# What is Bioacoustics?
-
+## What is Bioacoustics?
 Why Bioacoustics?
 
 * toc
