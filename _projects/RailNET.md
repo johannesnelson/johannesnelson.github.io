@@ -15,7 +15,7 @@ links:
   - title: Link
     url: https://github.com/johannesnelson/RailNET
 accent_color: '#4fb1ba'
-accent_image: none
+accent_image: 
   background: '#193747'
 theme_color: '#193747'
 sitemap: false
