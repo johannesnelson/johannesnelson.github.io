@@ -38,15 +38,15 @@ work:
     website: "https://piedpiper.com"
     startDate: "2023-09-30"
     endDate: "2023-12-22"
-    summary: >
+    summary: |
       During this short-term data science consultancy, I was responsible 
       for developing scripts in R to create a full data analysis pipeline
       to extract, clean/preprocess, and analyze data from tree monitoring
       surveys around the world. This monitoring program provides 
       essential metrics about Mastercard’s Priceless Planet Coalition,
       which aims to restore 100 million trees through a number of 
-      major restoration projects in key areas around the globe. 
-
+      major restoration projects in key areas around the globe. This 
+      pipeline included scripts to 
 
       Along with scripts to extract and wrangle/clean the monitoring 
       data from Kobotoolbox, I wrote scripts that used a combination 
@@ -58,7 +58,6 @@ work:
       native or introduced with interactive functionality that shows 
       color-coded occurrence data along with relevant sentences 
       scraped from Wikipedia pages to assist the user in making a designation.
-
 
       To further enable the native/introduced classification process, I used 
       LangChain in Python to create an LLM powered classifier that bases its 
