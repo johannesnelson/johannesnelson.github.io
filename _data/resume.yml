@@ -121,7 +121,7 @@ skills:
       - "Data Analysis"
       - "Data Visualization"
   - name: "Deep Learning"
-    level: "2/3"
+    level: "4/5"
     keywords:
       - "Python"
       - "PyTorch"
