@@ -38,7 +38,7 @@ work:
     website: "https://piedpiper.com"
     startDate: "2023-09-30"
     endDate: "2023-12-22"
-    summary: |
+    summary: >
       During this short-term data science consultancy, I was responsible 
       for developing scripts in R to create a full data analysis pipeline
       to extract, clean/preprocess, and analyze data from tree monitoring
@@ -47,29 +47,20 @@ work:
       which aims to restore 100 million trees through a number of 
       major restoration projects in key areas around the globe. This 
       pipeline included scripts to 
-
-      Along with scripts to extract and wrangle/clean the monitoring 
-      data from Kobotoolbox, I wrote scripts that used a combination 
-      of techniques like web-scraping and API calls to various databases
-      to create reports of potentially invasive species being planted;
-      scripts that cleaned/corrected scientific names to accepted names 
-      while also adding other taxonomic information like family; and 
-      scripts that streamlined the process of labelling species as 
-      native or introduced with interactive functionality that shows 
-      color-coded occurrence data along with relevant sentences 
-      scraped from Wikipedia pages to assist the user in making a designation.
-
-      To further enable the native/introduced classification process, I used 
-      LangChain in Python to create an LLM powered classifier that bases its 
-      classification decision for each species-country pairing entirely on 
-      relevant Wikipedia text. With clear, effective prompt engineering that 
-      breaks the reasoning process into multiple steps, this AI tool outputs 
-      a classification decision, the cited text, and descriptions of the 
-      intermediate reasoning steps that led to the decision.
     highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+      - Built complex, multi-script pipeline to extract monitoring data from Kobo Toolbox, 
+      preprocess/wrangle it, correct taxonomic information using various online databases 
+      and API calls, and finally to calculate key indicator metrics that will be used to 
+      evaluate the success of all restoration projects in the portfolio.
+      - Developed script that uses a combination of API calls and web-scraping to screen
+      multiple thousands of species across dozens of organizations for potentially invasive
+      species being planted.
+      - Created a streamlined, semi-automated process for further classification of planting data
+      into categories of native or alien using spatial occurence data from public databases and
+      relevant text called and filtered from Wikipedia.
+      - Built a Large Language Model powered classification agent using LangChain in Python to 
+      automate the process of native/alien classifcation using intentional prompt engineering to 
+      produce an organized report
 volunteer:
   - organization: "CoderDojo"
     position: "Teacher"
