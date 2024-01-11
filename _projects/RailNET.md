@@ -21,7 +21,7 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-For my personal site I've toned it down a bit. Instead of a flashy sidebar image, I chose a solid background color.
+RailNET is an ensemble of Convolutional Neural Networks.... Instead of a flashy sidebar image, I chose a solid background color.
 However, I've given [certain](https://qwtel.com/projects/ducky-hunting/) [pages](https://qwtel.com/projects/blocky-blocks/) big sidebar images, and let Hydejack blend back to normal when the user navigates away.
 
 While I love the font used for Hydejack's headings, for my personal site I felt less of a need to control the typesetting.
