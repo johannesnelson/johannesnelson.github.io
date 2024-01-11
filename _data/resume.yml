@@ -100,14 +100,7 @@ education:
     studyType: "Bachelor"
     startDate: "2007-09-30"
     endDate: "2011-05-30"
-    gpa: "4.0"
-    courses:
-      - "Deep Learning for Data Science"
-      - "Applied Machine Learning"
-      - "Bioacoustic Monitoring: Principles and Practice"
-      - "Intro to GIS"
-      - "Ornithological Principles"
-      - "Biological Occupancy Modeling"
+    gpa: "3.7"
 
 # awards:
 #   - title: "Digital Compression Pioneer Award"
