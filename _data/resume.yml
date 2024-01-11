@@ -33,15 +33,38 @@ basics:
       username: "johannesnelson"
       url: "https://github.com/johannesnelson"
 work:
-  - company: "PiedPiper"
-    position: "CEO/President"
+  - company: "Conservation International"
+    position: "Data Scientist/Consultant"
     website: "https://piedpiper.com"
-    startDate: "2013-12-01"
-    endDate: ""
+    startDate: "2023-09-30"
+    endDate: "2023-12-22"
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+      During this short-term data science consultancy, I was responsible 
+      for developing scripts in R to create a full data analysis pipeline
+      to extract, clean/preprocess, and analyze data from tree monitoring
+      surveys around the world. This monitoring program provides 
+      essential metrics about Mastercard’s Priceless Planet Coalition,
+      which aims to restore 100 million trees through a number of 
+      major restoration projects in key areas around the globe. 
+
+      Along with scripts to extract and wrangle/clean the monitoring 
+      data from Kobotoolbox, I wrote scripts that used a combination 
+      of techniques like web-scraping and API calls to various databases
+      to create reports of potentially invasive species being planted;
+      scripts that cleaned/corrected scientific names to accepted names 
+      while also adding other taxonomic information like family; and 
+      scripts that streamlined the process of labelling species as 
+      native or introduced with interactive functionality that shows 
+      color-coded occurrence data along with relevant sentences 
+      scraped from Wikipedia pages to assist the user in making a designation.
+
+      To further enable the native/introduced classification process, I used 
+      LangChain in Python to create an LLM powered classifier that bases its 
+      classification decision for each species-country pairing entirely on 
+      relevant Wikipedia text. With clear, effective prompt engineering that 
+      breaks the reasoning process into multiple steps, this AI tool outputs 
+      a classification decision, the cited text, and descriptions of the 
+      intermediate reasoning steps that led to the decision.
     highlights:
       - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
       - "Successfully won Techcrunch Disrupt"
