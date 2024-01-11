@@ -49,18 +49,18 @@ work:
       pipeline included scripts to 
     highlights:
       - Built complex, multi-script pipeline to extract monitoring data from Kobo Toolbox, 
-      preprocess//wrangle it, correct taxonomic information using various online databases 
-      and API calls, and finally to calculate key indicator metrics that will be used to 
-      evaluate the success of all restoration projects in the portfolio.
+        preprocess/wrangle it, correct taxonomic information using various online databases 
+        and API calls, and finally to calculate key indicator metrics that will be used to 
+        evaluate the success of all restoration projects in the portfolio.
       - Developed script that uses a combination of API calls and web-scraping to screen
-      multiple thousands of species across dozens of organizations for potentially invasive
-      species being planted.
+        multiple thousands of species across dozens of organizations for potentially invasive
+        species being planted.
       - Created a streamlined, semi-automated process for further classification of planting data
-      into categories of native or alien using spatial occurence data from public databases and
-      relevant text called and filtered from Wikipedia.
+        into categories of native or alien using spatial occurence data from public databases and
+        relevant text called and filtered from Wikipedia.
       - Built a Large Language Model powered classification agent using LangChain in Python to 
-      automate the process of native//alien classifcation using intentional prompt engineering to 
-      produce an organized report
+        automate the process of native-alien classifcation using intentional prompt engineering to 
+        produce an organized report
 volunteer:
   - organization: "Delaware Valley Ornithological Club"
     position: "Co-Chair of Conservation Commitee"
