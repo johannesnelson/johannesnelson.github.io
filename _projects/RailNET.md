@@ -17,6 +17,7 @@ links:
 accent_color: '#4fb1ba'
 accent_image: 
   background: url('/assets/img/projects/VIRA.jpg')
+  overlay: false
 theme_color: '#193747'
 sitemap: false
 ---
