@@ -81,7 +81,7 @@ volunteer:
       - "Provide ongoing techinical support to streamline process of automatic acoustic signal detection
       as well as manual validation of detection results."
 
-schooling:
+education:
   - institution: "University of Pennsylvania"
     area: "Environmental Studies"
     studyType: "Master's"
@@ -95,6 +95,7 @@ schooling:
       - "Intro to GIS"
       - "Ornithological Principles"
       - "Biological Occupancy Modeling"
+
 awards:
   - title: "Digital Compression Pioneer Award"
     date: "2014-11-01"

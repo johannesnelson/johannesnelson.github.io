@@ -8,7 +8,7 @@ hide_description: true
 left_column:
   - work
   - volunteer
-  - schooling
+  - education
   - awards
   - publications
   - references
