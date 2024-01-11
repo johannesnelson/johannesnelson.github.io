@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Why Listen WHERE IOS THIS?
-image: /assets/img/bird_favicon.jpg
+image: /assets/img/projects/bird_favicon.jpg
 accent_image: 
-  background: url('/assets/img/bird_favicon.jpg') center/cover
+  background: url('/assets/img/projects/bird_favicon.jpg') center
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
