@@ -84,7 +84,7 @@ volunteer:
 education:
   - institution: "University of Pennsylvania"
     area: "Environmental Studies"
-    studyType: "Master's"
+    studyType: "Master"
     startDate: "2021-09-30"
     endDate: "2013-09-30"
     gpa: "4.0"
@@ -96,20 +96,20 @@ education:
       - "Ornithological Principles"
       - "Biological Occupancy Modeling"
 
-awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
-publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+# awards:
+#   - title: "Digital Compression Pioneer Award"
+#     date: "2014-11-01"
+#     awarder: "Techcrunch"
+#     summary: "There is no spoon."
+# publications:
+#   - name: "Video compression for 3d media"
+#     publisher: "Hooli"
+#     releaseDate: "2014-10-01"
+#     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+#     summary: "Innovative middle-out compression algorithm that changes the way we store data."
 skills:
-  - name: "Web Development"
-    level: "Master"
+  - name: "R programming"
+    level: "2/3"
     keywords:
       - "HTML"
       - "CSS"
@@ -123,6 +123,14 @@ skills:
 languages:
   - language: "English"
     fluency: "Native speaker"
+  - language: "Spanish"
+    fluency: "3/5"
+  - language: "German"
+    fluency: "2/5"
+  - language: "Italian"
+    fluency: "2/5"
+  - language: "Arabic"
+    fluency: "1/5"
 interests:
   - name: "Wildlife"
     keywords:
