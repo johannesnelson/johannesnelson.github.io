@@ -9,16 +9,16 @@ basics:
   phone: "(917) 444-2451"
   website: "https://johannesnelson.github.io"
   summary: >
-I am a data scientist specializing in bioacoustics and conservation analytics. 
-My research has primarily focused on the use of passive acoustic monitoring to 
-survey wildlife communities and monitor biodiversity metrics—combining traditional 
-field work techniques with deep learning/artificial intelligence for data processing 
-and analysis. My programming skills in R and Python allow me to contribute to 
-projects in a variety of ways, from building complex data analysis pipelines to 
-automating/streamlining essential processes. I also have extensive experience as an 
-educator in progressive, inquiry-based classrooms around the world. I hope to continue 
-working at the intersection of technology and ecology--using innovative deep learning 
-solutions to promote conservation and discovery.
+    I am a data scientist specializing in bioacoustics and conservation analytics. 
+    My research has primarily focused on the use of passive acoustic monitoring to 
+    survey wildlife communities and monitor biodiversity metrics—combining traditional 
+    field work techniques with deep learning/artificial intelligence for data processing 
+    and analysis. My programming skills in R and Python allow me to contribute to 
+    projects in a variety of ways, from building complex data analysis pipelines to 
+    automating/streamlining essential processes. I also have extensive experience as an 
+    educator in progressive, inquiry-based classrooms around the world. I hope to continue 
+    working at the intersection of technology and ecology--using innovative deep learning 
+    solutions to promote conservation and discovery.
   location:
     address: "325 Monroe St"
     postalCode: "PA 19147"
