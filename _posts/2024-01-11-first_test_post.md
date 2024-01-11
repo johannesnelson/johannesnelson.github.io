@@ -3,7 +3,7 @@ layout: post
 title: Why Listen WHERE IOS THIS?
 image: /assets/img/projects/bird_favicon.jpg
 accent_image: 
-  background: url('/assets/img/projects/bird_favicon.jpg') center
+  background: '#FADC19'
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
