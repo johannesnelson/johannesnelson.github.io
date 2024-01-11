@@ -270,7 +270,7 @@ hydejack:
   hide_last_modified:  false
 
   # Note that dark mode only works in the PRO version of Hydejack.
-  # dark_mode:
+  dark_mode:
   #   # Set to `true` to always use the dark theme.
   #   always:            false
 
@@ -278,7 +278,7 @@ hydejack:
   #   dynamic:           false
 
   #   # Set to `true` to allow visitors to switch between light and dark mode.
-  #   icon:              true
+    icon:              true
 
   # ⚡️ DANGER ZONE ⚡️
   # ----------------
