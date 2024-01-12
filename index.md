@@ -1,8 +1,16 @@
 ---
-layout: page
+layout: welcome
 title: Hello!
-sitemap: false
+# sitemap: false
 cover: true
+selected_projects:
+  - _projects/RailNET.md
+  - _projects/qwtel.md
+projects_page: projects.md
+selected_posts:
+    - _posts/2024-01-11-first_test_post.md
+posts_page: /blog/
+featured: false
 ---
 
 My name is Johannes. I like birds, computers, and finding innovative ways to
@@ -14,18 +22,14 @@ at scale. My wider programming skillset allows me to contribute to projects in
 a variety of ways, from scripting complex data analysis pipelines to creating LLM-powered 
 classifiers to streamline essential processes. I love learning how to do new things.
 
-I made this website to showcase my projects and skills. It also houses my [resume](https://johannesnelson.github.io/resume/) and 
-a [blog](https://johannesnelson.github.io/blog/).
+I made this website to showcase my projects and skills. It also houses my [resume](resume.md) and a [blog](/blog/), where I write about things I've 
+worked on.
 
- in programming allows
-me to support and write code for :
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+## Selected projects
+<!--projects-->
 
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+## Selected posts
+<!--posts-->
 
 * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
