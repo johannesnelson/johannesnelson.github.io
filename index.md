@@ -14,8 +14,8 @@ at scale. My wider programming skillset allows me to contribute to projects in
 a variety of ways, from scripting complex data analysis pipelines to creating LLM-powered 
 classifiers to streamline essential processes. I love learning how to do new things.
 
-I made this website to showcase my projects and skills. It also houses my [resume]{:.heading.flip-title} and 
-a [blog]{:.heading.flip-title}.
+I made this website to showcase my projects and skills. It also houses my [resume](https://johannesnelson.github.io/resume/){:.heading.flip-title} and 
+a [blog](https://johannesnelson.github.io/blog/){:.heading.flip-title}.
 
  in programming allows
 me to support and write code for :
