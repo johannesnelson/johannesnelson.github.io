@@ -22,10 +22,25 @@ invert_sidebar: true
 
 ## Overview
 Soundscapes are an essential part of the natural world and the ecosystems that make it up. 
+Healthy, diverse soundscapes correlate with healthy, diverse ecosystems.
 By deploying audio recorders in the field, researchers, conservationists, and wildlife 
 enthusiasts can tap into the wealth of information propagating through the air in the 
 form of sound. Passive acoustic monitoring involves the sampling, processing, and analysis 
 of ecological soundscapes, usually with a focus on specific wildlife species. 
+
+
+## Why passive acoustic monitoring?
+Traditional field surveys--using human observers--can be costly and resource-intensive.
+Surveyors need to be trained by experts and then brought to often remote locations. 
+Because we cannot feasibly leave multiple people stationed continuously across a landscape, 
+remote sensing technology offers attractive alternatives. Wildlife cameras, drones, and other
+optical solutions can only go so far: line of sight is often more challenging to establish 
+than line of hearing. 
+
+Imagine a dense forest, a foggy seaside, or any where at night. Sound propagates through such 
+obstrucitons much more easily. What's more, audio data takes up less storage. Since animals
+often vocalize in a way that is unique to their species, the captured audio signatures provide 
+the means for comprehensive biodiversity assessments. 
 
 ## Why the bird focus?
 The simple answer: they are everywhere and they sing!
@@ -52,20 +67,6 @@ Since birds are are highly vocal and present in nearly all terrestrial ecosystem
 provide a crucial glimpse into what is going on and can point to dangers ahead. And since
 each species of bird vocalizes in a unique way, it is possible to train machine learning 
 models to analyze audio and identify the species present within it.
-
-
-## Why bioacoustics?
-Traditional field surveys--using human observers--can be costly and resource-intensive.
-Surveyors need to be trained by experts and then brought to often remote locations. 
-Because we cannot feasibly leave multiple people stationed continuously across a landscape, 
-remote sensing technology offers attractive alternatives. Wildlife cameras, drones, and other
-optical solutions can only go so far: line of sight is often more challenging to establish 
-than line of hearing. 
-
-Imagine a dense forest, a foggy seaside, or any where at night. Sound propagates through such 
-obstrucitons much more easily. What's more, audio data takes up less storage. Since animals
-often vocalize in a way that is unique to their species, the captured audio signatures provide 
-the means for comprehensive biodiversity assessments. 
 
 ## Major Benefits
 ### Greater survey coverage
@@ -122,7 +123,9 @@ You cannot simply collect 1,000 hours of audio and hope to listen to it all for 
 long time, no machine learning models were accurate or efficient enough to make acoustic monitoring viable
 at large scales. However, recent advances in artificial intelligience--particularly the advent of convolutional 
 neural networks--have resulted in a quantum leap in terms of what is now possible. I talk more about these
-powerful detection models in this post, in case you like to know more.
+powerful detection models in this post, 
+[Deep Learning for Audio Classification](/blog/2024-01-15-deep_learning_for_audio_classification_of_wildlife_vocalizations.){:.heading.flip-title}, 
+in case you like to know more.
 
 ## Conclusion
 We have got to act quickly when it comes to biodiversity conservation. All too often, in the time that it 
