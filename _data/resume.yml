@@ -35,7 +35,7 @@ basics:
 work:
   - company: "Conservation International"
     position: "Data Scientist/Consultant"
-    website: "https://piedpiper.com"
+    website: "https://www.conservation.org/home"
     startDate: "2023-09-30"
     endDate: "2023-12-22"
     summary: >
@@ -60,6 +60,59 @@ work:
       - Built a Large Language Model powered classification agent using LangChain in Python to 
         automate the process of native-alien classifcation using intentional prompt engineering to 
         produce an organized report
+
+  - company: "Wilistown Conservation Trust"
+    position: "Field Technician"
+    website: "https://wctrust.org/"
+    startDate: "2023-06-01"
+    endDate: "2023-08-01"
+    summary: >
+      During this summer position, I primarily supported efforts for a research project about the 
+      Eastern Towhee but also participated in other organization activities like MAPS banding. 
+    highlights:
+      - I assisted the lead researcher in nest-searching, active mist-netting, trapping,
+        banding, and MOTUS tagging of Eastern Towhees.
+      - Attended the American Ornithological society conference in Puerto Rico.
+
+  - company: "Carol Morgan School"
+    position: "History/Social Studies Teacher"
+    website: "https://www.cms.edu.do/"
+    startDate: "2019-08-01"
+    endDate: "2021-06-30"
+    summary: >
+      This school's curricular program is built of the Common Core. I developed, largely from scratch, the programming/
+      curriculum for the 5th grade History/Social studies classes as the school underwent accreditation.
+    highlights:
+      - Designed units of study focused on the social and environmental impacts of a linear, materials economy; bias and
+        power in historical narratives; and how resource management choices impact social and environmental welfare.
+  
+  - company: "International School of Dakar"
+    position: "5th Grade PYP Teacher"
+    website: "https://www.isdakar.org/"
+    startDate: "2017-08-01"
+    endDate: "2019-06-30"
+    summary: >
+      Here I was a 5th grade, IB Primary Years Program (PYP) teacher. My prior IB teaching experience allowed me to guide
+      the team and the school in their transition to the PYP program--an interdisciplinary, inquiry-based approach to teaching.
+    highlights:
+      - Taught students from 15+ nationalities and fostered a culture of empathy, collaboration, and open-mindedness
+      - Helped spearhead the school's first 5th grade PYP exhibition
+      - Planned field experiences for students to make connections to local communities and ecosystems while learning about 
+        key resource management issues in the region such as overfishing, desertification, and food scarcity
+
+  - company: "International College, Beirut"
+    position: "English Department Chair and 5th Grade PYP Teacher"
+    website: "https://www.ic.edu.lb/"
+    startDate: "2014-08-01"
+    endDate: "2017-06-30"
+    summary: >
+      In addition to being a classroom, PYP teacher, I was also appointed to be the chair of the English department, where I 
+      worked in a leadership role with the entire elementary teaching staff--a group comprised of many different cultural and
+      linguistic backgrounds.
+    highlights:
+      - Leadership role allowed me to instigate meaningful, lasting change in English curriculum--including shifting to a
+        more wholistic, inquiry ased approach to learning reading and writing.
+      - As a teacher, I planned and implemented curriculum on topics such as urban planning, living systems, and human rights
 volunteer:
   - organization: "Delaware Valley Ornithological Club"
     position: "Co-Chair of Conservation Commitee"
@@ -120,23 +173,41 @@ skills:
       - "Scripting"
       - "Data Analysis"
       - "Data Visualization"
-  - name: "Deep Learning"
+  - name: "Python programming"
+    level: "2/3"
+    keywords:
+      - "Scripting"
+      - "PyTorch"
+      - "NumPy"
+      - "Pandas"
+  - name: "Deep Learning with PyTorch"
     level: "3/3"
     keywords:
-      - "Python"
-      - "PyTorch"
       - "Convolutional Neural Networks"
-      - "Large Language Models"
-      - "LangChain"
-      - "Prompt engineering"
+      - "Audio/Image classification"
+      - "Model training"
+      - "Hyperparameter tuning"
   - name: "Bioacoustics/Passive Acoustic Monitoring"
     level: "3/3"
     keywords: 
       - "Signal processing/detection"
       - "Biological survey design"
       - "Data management"
-      - "Occupancy modeling"
       - "Scientific reporting"
+  - name: "GIS"
+    level: "2/3"
+    keywords:
+      - "ArcGis Pro"
+      - "Raster-based analysis"
+  - name: "Ecological Fieldwork"
+    level: "3/3"
+    keywords: 
+      - "Bird banding"
+      - "Occupancy modeling"
+      - "Distance sampling"
+      - "Survey design"
+      - "Backcountry camping/hiking"
+      - "North American bird ID from sight/sound"
 languages:
   - language: "English"
     fluency: "Native speaker"
