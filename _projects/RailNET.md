@@ -1,10 +1,10 @@
 ---
 layout: project
 title: 'RailNET'
-caption: Exploring Deep Learning solutions for cryptic species monitoring
+caption: Exploring deep learning solutions for cryptic species monitoring
 description: >
   Using Deep Learning to listen for elusive species like the Virginia rail.
-date: 1 Jun 2020
+date: 1 Mar 2022
 image: 
   path: /assets/img/projects/VIRA.jpg
 #   srcset: 
@@ -20,7 +20,7 @@ accent_image:
 theme_color: '#193747'
 sitemap: false
 ---
-### RailNET - A deep learning approach to detecting elusive acoustic signals
+### Listening for the Virginia Rail with RailNET
 
 
 * toc
