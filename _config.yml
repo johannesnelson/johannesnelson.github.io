@@ -25,14 +25,14 @@ title:                 Johannes Nelson
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  A professional/personal website that showcases my programming projects--particularly
+  those in the field of bioacoustics/passive acoustic monitoring and conservation analytics.
 
 # A shorter description for the sidebar.
-tagline:               Data Scientist, Bioacoustics Specialist, Ecologist
+tagline:               Data Scientist, Ecologist, Bioacoustics Specialist
 
 # A list of keywords for your blog
-keywords:              [bioacoustics, passive acoustic monitoring, computational ecologist]
+keywords:              [bioacoustics, passive acoustic monitoring, computational ecologist, data science, deep learning, neural networks, wildlife monitoring]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -49,24 +49,23 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /blog/
   - title:             Projects
     url:               /projects/
-  - title:             Résumé*
+  - title:             Resume
     url:               /resume/
-  - title:             Documentation
-    url:               /docs/
+  - title:             Blog
+    url:               /blog/
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+# legal:
+#   - title:             LICENSE
+#     url:               /LICENSE/
+#   - title:             NOTICE
+#     url:               /NOTICE/
+#   - title:             CHANGELOG
+#     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2021. All rights reserved.

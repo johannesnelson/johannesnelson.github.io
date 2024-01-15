@@ -4,7 +4,7 @@ title: 'Invasive Species Scanner'
 caption: Tool for rapidly scanning a list of species for potential invasives
 description: >
   Tool for rapidly scanning a list of species for potential invasives using webscraping and API calls
-date: 1 March 2022
+date: 1 December 2023
 image: 
   path: /assets/img/projects/species_graphic.png
 #   srcset: 
@@ -42,23 +42,6 @@ countries, it is very important to ensure that invasive species are not being pl
 the list of planted species manually would have taken a long time, so I developed scripts to do
 this rapidly. 
 
-## How it works
-The script relies primarily on web-scraping the [Global Invasive Species Database (GISD)](https://www.iucngisd.org/gisd/). 
-This database had easy-to-parse html source code that allowed me to use the 'rvest' package to 
-locate and extract essential elements of invasive species results such as a summary of invasiveness,
-the native range of the plant, and the alien range of the plant. 
-
-Since I knew most plants would certainly not be invasive--and since I didn't want to spam requests
-to the GISD website needlessly--I used API calls to the [Global Biodiversity Information Facility](https://www.gbif.org/), 
-which houses a record of what plants are included in the GISD database and which allows for a higher rate of API requests.
-This way, I could first check if the species actually existed in the database before performing webscraping on the GISD
-website itself.
-
-The output of the tool is a CSV with columns storing relevant information from the GISD wesbite. To test it
-yourself, you can load your own CSV with a column called 'species', you can type in a comma-separated list of 
-species, or you can simply run the demo which uses a preloaded species list. 
-
-
 
 <style>
 .responsive-iframe-container {
@@ -79,6 +62,28 @@ species, or you can simply run the demo which uses a preloaded species list.
 <div class="responsive-iframe-container">
   <iframe src="https://johannes-nelson.shinyapps.io/invasive_species_scanner/" frameborder="0"></iframe>
 </div>
+<br>
+This app is hosted on shiny.io, but I have embedded it here to use as well. The easiest way to see it work is to 
+click the 'Run Demo' button, which creates an output of a preloaded species list. Alternatively, you can load in 
+your own CSV or type in a comma-separated list yourself.
+{:.figcaption}
+
+## How it works
+The script relies primarily on web-scraping the [Global Invasive Species Database (GISD)](https://www.iucngisd.org/gisd/). 
+This database had easy-to-parse html source code that allowed me to use the 'rvest' package to 
+locate and extract essential elements of invasive species results such as a summary of invasiveness,
+the native range of the plant, and the alien range of the plant. 
+
+Since I knew most plants would certainly not be invasive--and since I didn't want to spam requests
+to the GISD website needlessly--I used API calls to the [Global Biodiversity Information Facility](https://www.gbif.org/), 
+which houses a record of what plants are included in the GISD database and which allows for a higher rate of API requests.
+This way, I could first check if the species actually existed in the database before performing webscraping on the GISD
+website itself.
+
+The output of the tool is a CSV with columns storing relevant information from the GISD wesbite. To test it
+yourself, you can load your own CSV with a column called 'species', you can type in a comma-separated list of 
+species, or you can simply run the demo which uses a preloaded species list. 
+
 
 ## Links
 * [Invasive species scanner Shiny app](https://johannes-nelson.shinyapps.io/invasive_species_scanner/)

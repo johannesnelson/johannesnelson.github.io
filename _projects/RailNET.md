@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'RailNET'
+title: 'RailNET - A Convolutional Neural Network for acoustic monitoring of elusive species'
 caption: Exploring deep learning solutions for cryptic species monitoring
 description: >
   Using Deep Learning to listen for elusive species like the Virginia rail.
@@ -20,7 +20,7 @@ accent_image:
 theme_color: '#193747'
 sitemap: false
 ---
-### Listening for the Virginia Rail with RailNET
+### RailNET - A Convolutional Neural Network for acoustic monitoring of elusive species
 
 
 * toc
@@ -37,7 +37,7 @@ massive class imbalance in the real-world data is unavoidable.
 ## Model Development
 ### Why?
 I developed RailNET because after joining an effort to study these birds using 
-[Passive Acoustic Monitoring](/blog/2024-01-11-passive_acoustic_monitoring){:.heading.flip-title} on a 
+[Passive Acoustic Monitoring](/blog/bioacoustics/deep learning/2024-01-11-passive_acoustic_monitoring){:.heading.flip-title} on a 
 large wetland preserve, I found that the existing state-of-the-art model for avian monitoring, BirdNET, 
 was not performing as well as expected with the Virginia rail--spitting out thousands of false detections 
 and missing a number of vocalizations I knew to be present. The precision of the model was hovering around just
@@ -69,13 +69,13 @@ like rails may often not even be the stars of their own recordings. By strongly 
 rail (i.e. manually curating a class that *only* contains Virginia rail vocalizations), it is likely that 
 performance will improve. This problem is illustrated in the picture below.
 
-![Full-width image](/assets/img/projects/data_integrity.jpg)
+![data_integrity_example](/assets/img/projects/data_integrity.jpg)
 This figure depicts two audio segments from a recording labelled in a public database as containing Virginia 
 rail vocalizations, and illustrates the data integrity issue where multiple species can easily come to pollute
 training data for a certain class. The navy blue boxes indicate true rail vocalizations, and the organge boxes
 indicate the vocalizations of other species. In an automated, amplitude-based data curation process, these other
 species would be included in the training data for the Virginia rail.
-{:.figcaption text-align = "left"}
+{:.figcaption}
 
 
 * By excluding irrelevant species in training and focusing on species that are the most vocally gregarious, 

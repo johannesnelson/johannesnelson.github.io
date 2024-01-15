@@ -124,7 +124,7 @@ long time, no machine learning models were accurate or efficient enough to make 
 at large scales. However, recent advances in artificial intelligience--particularly the advent of convolutional 
 neural networks--have resulted in a quantum leap in terms of what is now possible. I talk more about these
 powerful detection models in this post, 
-[Deep Learning for Audio Classification](/blog/2024-01-15-deep_learning_for_audio_classification_of_wildlife_vocalizations.){:.heading.flip-title}, 
+[Deep Learning for Audio Classification of Wildlife Vocalizations](/blog/bioacoustics/deep learning/2024-01-13-deep_learning_for_audio_classification_of_wildlife_vocalizations){:.heading.flip-title}, 
 in case you like to know more.
 
 ## Conclusion
