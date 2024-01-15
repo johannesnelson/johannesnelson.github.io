@@ -15,7 +15,7 @@ posts_page: /blog/
 featured: false
 ---
 
-My name is Johannes. I am a data scientist and ecologist, and I love finding 
+My name is Johannes. I am a data scientist and ecologist, passionate about finding 
 innovative ways to protect and gain insight into the natural world. 
 
 My programming skillset allows me to contribute to projects in a variety of ways, 
