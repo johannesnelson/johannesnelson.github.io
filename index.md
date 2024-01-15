@@ -4,6 +4,7 @@ title: Hello!
 # sitemap: false
 cover: true
 selected_projects:
+  - _projects/PPC_data_analysis_pipeline.md
   - _projects/RailNET.md
   - _projects/invasives_scanner.md
 projects_page: projects.md
