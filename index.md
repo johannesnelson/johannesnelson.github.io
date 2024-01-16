@@ -27,7 +27,7 @@ artificial intelligence for conducting ecological assessments and wildlife surve
 at scale. Because of my love for birds/wildlife, I feel particularly drawn to
 work that seeks to mitigate our global biodiversity crisis.
 
-I made this website to showcase my projects and skills. It also houses 
+I made this website to showcase my [projects](/projects/) and skills. It also houses 
 my [resume](resume.md) and a [blog](/blog/), where I write about things I've 
 worked on. I love learning how to do new things. Let's work together!
 
