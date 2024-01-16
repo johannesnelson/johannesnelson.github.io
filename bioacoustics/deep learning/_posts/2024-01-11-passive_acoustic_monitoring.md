@@ -47,19 +47,19 @@ The simple answer: they are everywhere and they sing!
 
 Birds—being one of the more conspicuous and extensively studied groups of animals around 
 the world—can often serve as indicators of underlying environmental 
-health(Lovette & Fitzpatrick, 2016). If a healthy and diverse population of birds is 
+health. If a healthy and diverse population of birds is 
 present and thriving, it generally means that the landscape is in good shape. The image 
 of ‘the canary in the coal mine’ is commonly evoked to explain birds’ role as important 
 bioindicators.
 
 So, when we see that North American birds have experienced a nearly 30% decline since 
-1970—a net loss of roughly three billion birds (Rosenberg et al.,2019)—it sends a clear 
+1970—a net loss of roughly [three billion birds](https://www.3billionbirds.org/)—it sends a clear 
 signal that a crisis is underway. 
 
 The crisis is not limited to the avian world: the global Living Planet Index—which is 
 measured by monitoring over 20,000 wildlife populations of roughly 4,400 species across 
-all classes of vertebrates indicates an overall decline in average abundance of 68% between 
-1970 and 2016 (Almond et al., 2020). These widespread, rapid declines pose an immense 
+all classes of vertebrates indicates an overall decline in average abundance of [68% between 
+1970 and 2016](https://livingplanet.panda.org/en-US/). These widespread, rapid declines pose an immense 
 challenge to conservationists seeking to preserve diverse wildlife communities and 
 the landscapes upon which they depend.
 
@@ -72,7 +72,7 @@ models to analyze audio and identify the species present within it.
 ### Greater survey coverage
 This applies to both time and space. Remote recording units can be deployed across entire 
 landscapes and can record over long periods of time. It is much easier to scale up survey 
-efforts when not reliant on expert observers being physically present in the field.
+efforts when not reliant upon expert observers being physically present in the field.
 
 ### Detecting rare, elusive, and cryptic species
 With continuous recording schedules, your odds of capturing those few, scattered vocalizations 
