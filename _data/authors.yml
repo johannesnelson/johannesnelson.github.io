@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    My name is Johannes Nelson. I love data science, birds, and artificial intelligence. My work sits at the
+    My name is Johannes Nelson. I love data science, birds, and programming. My work sits at the
     intersection of ecology and technology and ranges from training deep-learning, audio classification 
     models for wildlife monitoring to building complex data analysis pipelines for all sorts of projects. 
 
