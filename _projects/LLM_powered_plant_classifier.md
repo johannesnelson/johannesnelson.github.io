@@ -16,8 +16,8 @@ links:
     url: https://github.com/johannesnelson/LLM_Botanist
 accent_color: '#4fb1ba'
 accent_image: 
-  background: '#193747'
-theme_color: '#193747'
+  background: '#0A5562'
+theme_color: '#0A5562'
 sitemap: false
 ---
 ### Developing an LLM-Powered Plant Classifier Using LangChain
