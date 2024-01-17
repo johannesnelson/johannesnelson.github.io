@@ -20,7 +20,7 @@ accent_image:
 theme_color: '#193747'
 sitemap: false
 ---
-### RailNET - A Convolutional Neural Network for acoustic monitoring of elusive species
+### RailNET - A Convolutional Neural Network for Acoustic Monitoring of Elusive Species
 
 
 * toc

@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Invasive Species Scanner'
+title: 'Detecting Invasive Flora: Leveraging Web Scraping and API Integration with Biodiversity Databases'
 caption: Tool for rapidly scanning a list of species for potential invasives
 description: >
   Tool for rapidly scanning a list of species for potential invasives using webscraping and API calls
@@ -13,14 +13,14 @@ image:
 #     480w:  /assets/img/projects/qwtel@0,25x.jpg
 links:
   - title: Link
-    url: https://re8gg2-johannes-nelson.shinyapps.io/invasive_species_scanner/
+    url: https://johannes-nelson.shinyapps.io/invasive_species_scanner/
 accent_color: '#4fb1ba'
 accent_image: 
   background: '#193747'
 theme_color: '#193747'
 sitemap: false
 ---
-### Invasive Species Scanner
+### Detecting Invasive Flora: Leveraging Web Scraping and API Integration with Biodiversity Databases
 
 ## Overview
 I developed this tool as a part of a much larger data analysis/processing pipeline when
