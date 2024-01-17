@@ -48,7 +48,7 @@ also be [accessed on Streamlit](https://llm-botanist.streamlit.app/).
 </style>
 
 <div class="responsive-iframe-container">
-  <iframe src="https://llm-botanist.streamlit.app/" frameborder="0"></iframe>
+  <iframe src="https://llm-botanist.streamlit.app/~/+/" frameborder="0"></iframe>
 </div>
 <br>
 
