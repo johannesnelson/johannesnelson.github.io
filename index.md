@@ -4,10 +4,10 @@ title: Hello!
 # sitemap: false
 cover: true
 selected_projects:
+  - _projects/LLM_powered_plant_classifier.md
   - _projects/PPC_data_analysis_pipeline.md
   - _projects/RailNET.md
   - _projects/invasives_scanner.md
-  - _projects/LLM_powered_plant_classifier.md
 projects_page: projects.md
 selected_posts:
     - bioacoustics/deep learning/_posts/2024-01-11-passive_acoustic_monitoring.md
