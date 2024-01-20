@@ -20,12 +20,9 @@ description: >
 *Deep learning* refers to a subset of machine learning that employs artificial neural networks 
 with multiple layers to progressively extract higher-level features from raw input. In simpler terms,
 deep learning can be understood as a way for a computer to learn and make decisions by itself, 
-much like how a human brain works, but using a series of interconnected layers in a network 
-to analyze and interpret data.
+similarly, in some ways, to the way a human brain does. Instead of neurons, though, neural networks use a series of interconnected layers in a network to analyze and interpret data.
 
-These models, particularly the Convolutional Neural Networks (CNNs) that I am going to talk about here--are excellent  
-at processing audio data--enabling automatic learning of intricate patterns in the sound, which is crucial 
-for tasks like voice recognition, sound classification, and audio event detection.
+These models, particularly the Convolutional Neural Networks (CNNs) that I am going to talk about here--are excellent at processing audio data--enabling automatic learning of intricate patterns in the sound, which is crucial for tasks like voice recognition, sound classification, and audio event detection.
 
 ## Why are they so good at this?
 One major strength of neural networks, particularly CNNs, lies in their ability to work with raw inputs 
@@ -38,13 +35,9 @@ acoustic properties they think will be important for downstream tasks such as cl
 During the training process, the neural network adjusts its numerous parameters (often 
 in the millions) to better represent the data it's learning from. This process is 
 essentially the model learning to identify and prioritize the most important features in the 
-audio to perform the task at hand. The downside of this is that it is often quite difficult 
-for us find out what those features are since the models themselves are so complex and the 
-latent representations it has built are not directly retrievable. So, while traditional
-ML models that rely on manual feature extraction might provide greater interpretability--i.e.,
-you can directly see which extracted features were the most important for the classification 
-decision--deep learning models forego this interpretability but key into intricate patterns
-that would have otherwise been impossible to explicitly extract.
+audio to perform the task at hand: as the data passes through this complex network, each node takes
+on a different value that impacts how the output at each layer is transformed. The downside of this is that it is often quite difficult for us find out what those features are since the models themselves are so complex and the latent representations it has built within this intricate network of nodes are not directly retrievable. So, while traditional ML models that rely on manual feature extraction might provide greater interpretability--i.e., you can directly see which extracted features were the most important for the classification decision--deep learning models forego this interpretability but key into intricate patterns
+that would have otherwise been impossible to explicitly extract by dramatically increasing the scale of learnable parameters.
 
 ## How do they work?
 
@@ -82,7 +75,8 @@ to pass through your model.
 
 While there are numerous other steps often taken during preprocessing before the final spectrogram is passed
 to the model for training, what's important for the purposes of this article is simply understanding that
-in this early stage, the audio is transformed into an image of itself that highlights key features.
+in this early stage, the audio is transformed into an image of itself that highlights key features. From the 
+perspective of the model, these images are just two-dimensional arrays of numbers.
 
 ### How CNNs process audio/image data
 The core feature that makes CNNs so effective for these tasks is their convolutional layers. Let's break down how these layers work and why they are beneficial.
@@ -121,7 +115,7 @@ loss on its next iteration--typically through a process called backpropagation. 
 #### Hyperparameter tuning
 The data scientist supervising this learning will evaluate the model's performance and 
 then start tuning hyperparameters in attempts to improve performance further. These hyperparameters
-are essentially little knobs and switches you can flip that adjust how the model learns. These parameters
+are essentially little knobs and switches you can flip that adjust how the model learns. They
 include things like *learning rate*, a factor that controls the size of the steps the model takes when
 adjusting weights in each iteration; batch size, which designates how many samples the model ingests at once; the number of neurons in various layers or the number of layers, values that result in tweaks to the actual architecture of the model; and so, so many more.
 
