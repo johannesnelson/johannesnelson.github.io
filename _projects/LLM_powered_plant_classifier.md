@@ -61,7 +61,7 @@ The app can also be [accessed on Streamlit](https://llm-botanist.streamlit.app/)
 
 ## Overview/Background
 ### Reason for Development
-During my work as a data scienctist/consultant for Conservation International, the monitoring team
+During my work as a data scientist/consultant for Conservation International, the monitoring team
 expressed interest in being able to automatically classify plants as native, alien, or invasive in certain landscapes. The
 size and geogrpahic distribution of their restoration portfolio made this a challenge--there was a lot of data coming in from dozens
 of countries around the world.
@@ -173,7 +173,7 @@ reasoning_schema = ResponseSchema(name="reasoning",
 
 ### Conclusion
 After numerous iterations, I settled on a series of prompts and a workflow and had a working classifier and succesfully processed
-over 2,000 species country combinations. As with any classification process, results should be validated before they are used to inform action
+over 2,000 species-country combinations. As with any classification process, results should be validated before they are used to inform action
 (especially considering the non-deterministic nature of LLMs and their tendency to hallucinate), but validating a pre-labelled dataset
 that includes the wikipedia context and reasoning steps will be a lot more efficient than working from scratch. 
 
