@@ -3,7 +3,7 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Johannes Nelson"
-  label: "Data Scientist, Bioacoustics Specialist, Ecologist"
+  label: "Data Scientist, Ecologist, Bioacoustics Specialist"
   picture: /assets/img/headshot.png
   email: "johannes.nelson@gmail.com"
   phone: "(917) 444-2451"
