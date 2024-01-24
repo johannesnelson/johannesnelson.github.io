@@ -149,21 +149,8 @@ I overlaid actual soundscape recordings onto my training data that came from eco
 to encounter. This allowed the model to practice classifying the target signal in the presence of realistic
 ambient sounds and vocalizations from species likely to be present during deployment.
 
-
-### Complex Pattern Recognition:
-CNNs are adept at detecting complex patterns in audio signals, which is essential for identifying the unique vocalizations of different wildlife species.
-
-2. Temporal and Frequency Analysis:
-They can analyze both time and frequency features of sound, allowing them to capture the distinct characteristics of wildlife calls that may vary over time.
-
-3. Robustness to Environmental Noise:
-CNNs can be trained to filter out background noises, which is crucial when dealing with wildlife audio recorded in natural, often noisy, environments.
-
-4. Hierarchical Feature Extraction:
-These networks learn to recognize sounds from basic tones to complex call structures, making them effective in distinguishing between different species.
-
-5. Efficiency in Large Dataset Handling:
-Their ability to handle large datasets efficiently is vital for analyzing extensive audio recordings collected in wildlife studies.
-
-* toc
-{:toc}
+### Opportunities
+There is so much potential for growth and innovation within this space. The architectures we are relying on right now
+may not even be relevant in a couple years. The 'exploration' space with different parameters and architectures is 
+really limitless, and with so many people around the world developing these models for different purposes, it is only a matter
+of time before the next disruptive development that hopefully allows us to listen to our ecosystems even better!
