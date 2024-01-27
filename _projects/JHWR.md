@@ -1,9 +1,9 @@
 ---
 layout: project
-title: 'Gathering Baseline Avian Community Data Ahead of Major Wetland Restoration at John Heinz National Wildlife Refuge'
-caption: Designing and implementing a passive acoustic monitoring survey for the full avian community as well as cryptic marsh birds.
+title: 'Surveying the Bird Community at a National Wildlife Refuge with Passive Acoustic Monitoring'
+caption: Gathering Baseline Avian Community Data Ahead of Major Wetland Restoration at John Heinz National Wildlife Refuge.
 description: >
-  Project report about designing and implementing a passive acoustic monitoring survey for the full avian community as well as cryptic marsh birds.
+  Gathering Baseline Avian Community Data Ahead of Major Wetland Restoration at John Heinz National Wildlife Refuge.
 date: 27 January 2024
 image: 
   path: /assets/img/projects/JHWR_graphic.png
@@ -22,7 +22,7 @@ sitemap: false
 ---
 
 
-### Gathering Baseline Avian Community Data Ahead of Major Wetland Restoration at John Heinz National Wildlife Refuge
+### Surveying the Bird Community at a National Wildlife Refuge with Passive Acoustic Monitoring
 
 * toc
 {:toc}
