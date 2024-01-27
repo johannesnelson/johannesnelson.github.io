@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deep Learning for Audio Classifcation of wildlife vocalizations
+title: Deep Learning for Audio Classifcation of Wildlife Vocalizations
 image: 
   path: /assets/img/projects/bird_tech_background.png
 accent_image: 
@@ -14,7 +14,7 @@ description: >
 
 ---
 
-## Deep Learning for Audio Classifcation of wildlife vocalizations
+## Deep Learning for Audio Classifcation of Wildlife Vocalizations
 
 ## Overview
 *Deep learning* refers to a subset of machine learning that employs artificial neural networks 
