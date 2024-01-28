@@ -36,10 +36,10 @@ future surveys could be compared. There was a special interest in cryptic marsh 
 ## Background
 The refuge sits barely above sea level, resulting in a daily tidal fluctuation of approximately six feet. However, throughout its history, the land on which the refuge is located has seen numerous significant changes that have altered its landscape and its hydrology. European settlers first erected dikes for agricultural purposes in the Tinicum marshes as early as the 17th century. More recently, from the 1950s to the 1970s, an area known as Henderson Marsh, which encompasses roughly 150 acres on the Delaware County side of the refuge, was the site of dredge disposal by the Army Corps of Engineers (USFWS,  2012). Both the dredge disposal and the creation of dikes altered the site’s natural hydrology by hindering tidal connectivity and thus changing the Henderson Marsh ecosystem.
 
-## The restoration proposal
+## The Restoration Proposal
 According to the Henderson Marsh Restoration Project grant proposal, this will be achieved through the excavation of 13,073 linear feet of tidal channels, and the breaching of a new opening in the dike that currently separates Henderson Marsh from Darby Creek. The resulting seven acres of channels and pools will allow for the flow of native plants into the wetland interior and improve the marsh’s overall ecosystem function.
 
-## Survey design
+## Survey Design
 Recording sites were originally sampled randomly from the entire marsh area, but most of these points were impossible to access because of large tidal fluctuations and a lack of available watercraft to efficiently navigate the channels. Instead, points were evenly distributed around the marsh’s edge, making them all accessible by foot with small excursions off the trail. Seventeen sites were selected in this way.
 
 Recordings took place in five two-week deployments, meaning that not all 17 sites were surveyed simultaneously. During this two-week period, six recorders were installed and evenly spaced around the marsh to avoid clustering and biasing specific marsh areas during any given deployment. After two weeks, the recorders were collected, and new recorders were installed at new sites.
@@ -62,8 +62,8 @@ We reviewed rouhgly 35,000 acoustic signals during this stage of the process--di
 ![Cryptic Marsh Bird Detections](/assets/img/projects/CMB_map.jpg)
 
 ### Full Bird Community
-Since the focus of this project was on the cryptic marsh birds, we did not manually validate detection data for the full bird community, an efficient 
-and systematic approach could easily be implemented to do just that. For the purposes of this project, we defined an algorithmic cutoff making use of 
+Since the focus of this project was on the cryptic marsh birds, we did not manually validate detection data for the full bird community. However, an efficient and systematic approach could easily be implemented to do just that--such as validating a subset of detections for each species or validating
+the presence of each species at each site. For the purposes of this project, we defined an algorithmic cutoff making use of 
 the confidence scores that BirdNET assigns each detection. Our final bird list contained birds that were detected more than 15 times and whose top 15
 detections (ranked by confidence score), averaged to greater than 0.7. This eliminated birds with only a handful of high confidence detections. 
 
