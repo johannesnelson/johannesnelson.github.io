@@ -33,11 +33,27 @@ basics:
       username: "johannesnelson"
       url: "https://github.com/johannesnelson"
 work:
+  - company: "Social Environment UK"
+    position: "Data Scientist/Bioacoustics Consultant"
+    website: "https://socialenvironment.org.uk/"
+    startDate: "2024-02-01"
+    endDate: "2024-04-01"
+    summary: >
+      During this short-term data science consultancy, I was responsible 
+      for helping to scan raw soundscape data for specie of interest, without
+      the aid of a working classifier. This necessitated coming up with systematic
+      sampling techniques, as well as a number of custom scripts and functions that
+      enabled the efficient parsing of long audio files and functionality to label them.
+    highlights:
+      - Improved validation protocol efficiency by using independently 
+        developed R package and designing effective audio sampling approaches
+      - Conducted analysis and manual validation of large audio dataset of Indonesian soundscapes
+      - Targeted specific species of interest in order to inform restoration/conservation interventions
   - company: "Conservation International"
     position: "Data Scientist/Consultant"
     website: "https://www.conservation.org/home"
     startDate: "2023-09-30"
-    endDate: "2023-12-22"
+    endDate: "2024-01-01"
     summary: >
       During this short-term data science consultancy, I was responsible 
       for developing scripts in R to create a full data analysis pipeline
