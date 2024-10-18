@@ -51,7 +51,7 @@ during their tree monitoring phases and ultimately generate indicators like the 
 might sound simple, any data scientist will likely know that the word 'raw' often implies messy, inaccurate, and
 sometimes unintelligible. This isn't anyone's fault, it is the nature of working with real world data--especially
 data streaming in from so many sources around the world. Adding to the complexity (and fun) of this job, were some
-added functions that I was asked to explore: functionality to scan the entire dataset for potentially invasive 
+added issues that I was asked to explore: functionality to scan the entire dataset for potentially invasive 
 species, a way to classify plants as alien or native in the regions where they are being planted, and ways to handle 
 missing taxonomic information or innacurrate inputs in the family, genus, or species fields.
 
@@ -71,10 +71,10 @@ called 'robotoolbox' which streamlined this even further.
 Along with getting the data out, however, I had to parse out how Kobo's internal labels mapped onto 
 actual project parameters to give fields clear names for human eyes. The forms to collect data 
 had gone through many iterations/versions during deployment, which created some abberant tables and fields
-that also needed to be handled. In addition to this, I had to read and understand the monitoring protocol 
+that also needed to be handled. In addition to this, I had to read and understand the actual tree monitoring protocol 
 extensively in order to initiate variables that would later be essential in computing the key indicators.
-Translating this understanding of what was happening on the ground to how this should look on the screen
-made up a major part of this script.
+Translating this understanding of what was happening on the ground--the science behind the data collection and 
+monitoring effort--to how this should be reflected on the screen in the pipeline made up a major part of this script.
 
 The result was the complete dataset with clear labels, many added fields, reshaped and reorganized for further processing.
 The data was saved in a preset directory strucutre to the user's disk, where subsequent scripts would locate and 
