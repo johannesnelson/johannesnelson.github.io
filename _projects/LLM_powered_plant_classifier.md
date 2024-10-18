@@ -28,10 +28,10 @@ sitemap: false
 ## Demo App
 For demonstration purposes and ease-of-use, I made a runnable app that I am hosting on Streamlit. There are three options for running this app:
 
-1.) You can run the demo by clicking the "Run Demo" button. This will run a pre-loaded dataset
-of a few different plant-species combinations.
-2.) You can enter the scientific name of a species and a country of your choice and process
-these as a single entry.
+1.) You can run the demo by clicking the "Run Demo" button. This will run a pre-loaded dataset of a few different plant-species combinations.
+
+2.) You can enter the scientific name of a species and a country of your choice and process these as a single entry.
+
 3.) You can upload your own CSV with a column for species and a column for country. 
 
 The app can also be [accessed on Streamlit](https://llm-botanist.streamlit.app/) where you can see it full screen. You can see the source code for everything on my 
